@@ -100,7 +100,7 @@ public class Ejercicio1 {
         int i =1;
 
         while (i<101){
-            if (i % 2 == 0) { // Verifica si es par
+            if (i % 2 == 0) { 
                 System.out.println(i);
             }
             
@@ -108,7 +108,6 @@ public class Ejercicio1 {
             
         }
 
-        /*2. Mostrar la tabla de multiplicar de cualquier número ingresado por el usuario. */
 
         
 
